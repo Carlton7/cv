@@ -27,7 +27,7 @@ I have a degree in Civil Engineering and worked at Merrill Lynch investment bank
 
 <br>
 
-| ![Github](Images/Github1.png)<br>Github | ![Unity](Images/unity-logo-resize.png)<br>Unity| ![](g)<br> |
+| ![Github](Images/github1.png)<br>Github | ![Unity](Images/unity-logo-resize.png)<br>Unity| ![](g)<br> |
 | :---: | :---: | :---: |
 | Git command line, Markdown, Repo collaboration, Merge conflicts, Work flows (branching) | Mobile application and Game Development, specifically Virtual Reality |
 
