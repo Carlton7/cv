@@ -13,7 +13,7 @@
 <a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/CSS-449%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/fo0s"><img src="https://img.shields.io/badge/HTML-153%20commits-orange.svg" alt=""></a> -->
 
-I have a degree in Civil Engineering and worked at Merrill Lynch investment bank for 4 years providing second line application support for traders in Fixed Income Currencies and Commodities section.  The role provided me the opportunity to use my `problem solving`, `communication` and `organisation` skills in a fast-moving dynamic setting.  This experience triggered my interest in software development, so I re-trained in software development by attending a boot camp with Makers and am very keen to apply my learning and further develop in the workplace.
+Hold a degree in Civil Engineering and worked at Merrill Lynch investment bank on the trading floor for 4 years providing second line application support for traders in Fixed Income Currencies and Commodities section.  The role provided me the opportunity to use my problem solving, communication and organisation skills in a fast-moving dynamic setting.  This experience triggered my interest in software development, so I re-trained in software development by attending a boot camp with Makers and am very keen to apply my learning in the workplace. I have experience communicating and working with people from across the globe.
 
 **Please expand the drop downs below by clicking on them**
 
@@ -120,10 +120,7 @@ during emergency procedures.
 > Dec, 2013 — Jul, 2014
 
 *Sales Engineer*
-Worked with the sales and technical teams in the business, helping deliver and maintain modular data centres to places such as: UK, Australia, Nigeria, USA and South Africa.
-
-- Writing proposals and tenders for various clients 
-- Acting as a representative/technical consultant at various sites around the UK for BladeRoom.
+Worked with the sales and technical teams in the business, helping deliver and maintain modular data centres to places such as: UK, Australia, Nigeria, USA and South Africa. Responsibilities included writing proposals/tenders for various clients and acting as a technical consultant at various sites around the UK for BladeRoom.
 
 #### BUOTC, Bristol, UK.
 
@@ -138,7 +135,10 @@ Selected to attend the training program at the Bristol University Officers Train
 <details><summary>When I'm not programming</summary>
 <p>
 
-I like to compete and participate in many sports/outdoor activites. Played Cricket for 18+ years at a representative level in Sydney, London and for the MCC, winning individual honours and premierships. Also a compentent football, sqaush and table tennis player.
+- I like to compete and participate in many sports/outdoor activities. Played Cricket for 18+ years at a representative level in Sydney, London and for the MCC, winning individual honours and premierships. Also a competent football, squash and table tennis player.
+- Played the guitar for 10+ years
+- Have a keen interest in boardgames
+
 
 
 </p>
