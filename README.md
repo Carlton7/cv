@@ -135,10 +135,9 @@ Selected to attend the training program at the Bristol University Officers Train
 <details><summary>When I'm not programming</summary>
 <p>
 
-- I like to compete and participate in many sports/outdoor activities. Played Cricket for 18+ years at a representative level in Sydney, London and for the MCC, winning individual honours and premierships. Also a competent football, squash and table tennis player.
-- Played the guitar for 10+ years
+- I like to compete and participate in many sports/outdoor activities. Play Cricket and have done so at a representative level in Sydney, London and for the MCC, winning individual honours and premierships. Also a competent football, squash and table tennis player.
+- Play the guitar
 - Have a keen interest in boardgames
-
 
 
 </p>
