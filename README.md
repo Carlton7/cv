@@ -44,6 +44,7 @@ Hold a degree in Civil Engineering and worked at Merrill Lynch investment bank o
 | Link | Summary | Technologies used |
 | :---: | :---: | :---: |
 | [VR-Hide-And-Go-Beetroot](https://github.com/Carlton7/vr-hide-and-go-beetroot) | A virtual reality game where you'll have to navigate a random procedurally generated maze (using the hunt and kill algorithm) to find the Beetroot before the time runs out. | C# and Unity Game Engine |
+| [FPL Player calculator](https://github.com/Carlton7/FPL) | Utilising the Fantasy Premier League API to calulate potential player scores for the next gameweek | Javascript |
 | [Acebook](https://github.com/Carlton7/acebook-rails-amoeba-boyz) | A team project aimed to make a Facebook clone. | Ruby, Rails, CSS, Heroku |
 | [Bank Tech Test](https://github.com/Carlton7/Bank_Tech_Test) | An individual challenge to practice coding under pressure and writing clean code that would be worthy of passing a tech test. | Javascript, Jasmine testing framework |
 
